@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+}
+
+.container {
+  margin: auto;
+  margin-top: 100px;
+  width: 1024px;
+}
+
+.title {
+  font-family: georgia;
+  font-style: italic;
+  color: #593131;
+}

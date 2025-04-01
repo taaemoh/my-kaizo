@@ -1,0 +1,27 @@
+.listWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 20px;
+  padding: 16px;
+  border: 1px solid #cbcbcb;
+  border-radius: 20px;
+  background: #d9d9d9;
+  margin-bottom: 100px;
+}
+
+.listItem {
+  flex: 1 1 100%;
+  border-radius: 18px;
+  background-color: #f2f2f2;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 600px) {
+  .listItem {
+    flex: 1 1 calc(19% - 8px);
+  }
+}

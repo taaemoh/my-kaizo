@@ -1,0 +1,23 @@
+.flexContainer {
+  display: flex;
+  padding: 50px;
+}
+
+.wrapper {
+  margin: auto;
+}
+
+.title {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: impact;
+  letter-spacing: 1px;
+  font-size: 20px;
+  color: #824e4e;
+  margin: auto;
+}
+
+.message {
+  font-size: 14px;
+  color: #824e4e;
+}
