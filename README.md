@@ -25,5 +25,5 @@ npm start
 - Redux was used as a robust state management solution, and Redux toolkit was utilized as the officially recommended way of using redux.
 - Redux RTK Query was used as a way for managing API communication.
 - React `Compound components` design pattern was mainly used for `ResponsiveList`. This pattern provides a nice and clean approach to manage components that naturally go toether like `ResponsiveList` and `ResponsiveList.Column`. This is very popular pattern in UI libraries.
-  - Due to the limited time constraints of 3 hours, testing was ignored in this take home assignment.
-  - CSS Modules were used for styling.
+- Due to the limited time constraints of 3 hours, testing was ignored in this take home assignment.
+- CSS Modules were used for styling.
